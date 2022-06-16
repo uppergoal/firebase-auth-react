@@ -7,3 +7,5 @@
 7. Get started with Auth service
 8. Activate email/password sign-in method with passwordless
 9. Create signup with password/email component
+10. Add the react-firebase-hooks library and use the `useAuthState` to listen to the auth state changes
+11. Create a Context with the user informations
